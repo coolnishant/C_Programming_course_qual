@@ -2,7 +2,7 @@
 			EMP ID: 138268
 			Name: Nishant Raj
 cz
--*/
+---------------------------------------*/
 
 #include<stdio.h>
 int toDecimal(char val[]){
